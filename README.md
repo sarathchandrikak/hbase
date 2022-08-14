@@ -24,6 +24,13 @@
 
 To access data from HBase table, 4 parameters are needed. RowKey, Column Family, Column Name, version. This is the reason HBase is also known as 4 Dimension data model. 
 
+  # 📍 HBase Data Model 
+  
+<img src="https://github.com/sarathchandrikak/hbase/blob/main/hbase.jpeg"
+     alt="Markdown Monster icon"
+     style="float" />
+     
+     
   # 📍 HBase basic queries 
     
 Start HBase shell
