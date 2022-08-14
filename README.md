@@ -28,9 +28,11 @@ To access data from HBase table, 4 parameters are needed. RowKey, Column Family,
   
 <img src="https://github.com/sarathchandrikak/hbase/blob/main/hbase.jpeg"
      alt="Markdown Monster icon"
-     style="float" />
+     style="float" /> 
      
-     
+Image Source: https://www.oreilly.com/library/view/hadoop-essentials/9781784396688/ch05s04.html
+
+
   # 📍 HBase basic queries 
     
 Start HBase shell
@@ -74,6 +76,3 @@ Truncate to delete all the data from the existing data table
   Disable data table
         
         disable '<table_name>'
-
-
-
